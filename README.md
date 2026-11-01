@@ -4,10 +4,7 @@ CodeWithSwati
 ## Connect With Me:
 
 <p>
-  <a href="https://x.com/AdarshT78825991" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/adarsh-thakur-74ab3a243/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
@@ -16,10 +13,7 @@ CodeWithSwati
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/adarsh_thakur7601/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
   </a>
@@ -76,10 +70,10 @@ CodeWithSwati
 ## 📊 Github Analytics
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh7601&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adarsh7601&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swatikumari30122006-dotcom&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swatikumari30122006-dotcom&theme=tokyonight" height="180"/>
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh7601&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swatikumari30122006-dotcom&theme=tokyonight"/>
 </p>
